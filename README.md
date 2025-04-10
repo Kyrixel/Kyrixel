@@ -1,5 +1,5 @@
 Hi,
 
--creating plugins and extensions for linux
--learning rust
+- creating plugins and extensions for linux
+- learning rust
 
